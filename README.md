@@ -8,6 +8,7 @@ This page lists landmark literature reporting the developmental staging of chond
 |*Chiloscyllium punctatum*|oviparous|[Onimaru et al., 2018](https://anatomypubs.onlinelibrary.wiley.com/doi/10.1002/dvdy.24623)| 
 |*Sphyrna tiburo*|viviparous|[Byrum et al., 2023](https://anatomypubs.onlinelibrary.wiley.com/doi/10.1002/dvdy.658)|
 |*Scyliorhinus canicula*|oviparous|[Ballard et al., 1993](https://onlinelibrary.wiley.com/doi/abs/10.1002/jez.1402670309)|
+|*Chlamydoselachus anguineus*|viviparous|[Lopez-Romero et al., 2020](https://onlinelibrary.wiley.com/doi/10.1111/jfb.14352)|
 |*Raja eglanteria*|oviparous|[Luer et al., 2009](https://link.springer.com/chapter/10.1007/978-1-4020-9703-4_9)|
 |*Leucoraja erinacea*|oviparous|[Gillis et al., 2022](https://www.sciencedirect.com/science/article/abs/pii/S007021532100106X?via%3Dihub)|
 |*Leucoraja ocellata*|oviparous|[Maxwell et al., 2008](https://anatomypubs.onlinelibrary.wiley.com/doi/10.1002/ar.20719)|
