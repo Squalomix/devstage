@@ -2,8 +2,8 @@
 
 This page lists landmark literature reporting the developmental staging of chondrichthyan species.
 
-|Species|Parity mode|Literature|
-|----|----|----|
+|Common name|Species|Parity mode|Literature|
+|----|----|----|----|
 |elephant fish|*Callorhinchus milii*|oviparous|[Didier et al., 1999](https://onlinelibrary.wiley.com/doi/10.1002/(SICI)1097-4687(199804)236:1%3C25::AID-JMOR2%3E3.0.CO;2-N)|
 |brownbanded bamboo shark|*Chiloscyllium punctatum*|oviparous|[Onimaru et al., 2018](https://anatomypubs.onlinelibrary.wiley.com/doi/10.1002/dvdy.24623)| 
 |bonnethead|*Sphyrna tiburo*|viviparous|[Byrum et al., 2023](https://anatomypubs.onlinelibrary.wiley.com/doi/10.1002/dvdy.658)|
