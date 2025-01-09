@@ -9,7 +9,7 @@ This page lists landmark literature reporting the developmental staging of chond
 |bonnethead|*Sphyrna tiburo*|viviparous|[Byrum et al., 2023](https://anatomypubs.onlinelibrary.wiley.com/doi/10.1002/dvdy.658)|
 |small-spotted catshark|*Scyliorhinus canicula*|oviparous|[Ballard et al., 1993](https://onlinelibrary.wiley.com/doi/abs/10.1002/jez.1402670309)|
 |cloudy catshark|*Scyliorhinus torazame*|oviparous|[Kuratani & Horigome, 2000](https://bioone.org/journals/Zoological-Science/volume-17/issue-7/zsj.17.893/Developmental-Morphology-of-Branchiomeric-Nerves-in-a-Cat-Shark-Scyliorhinus/10.2108/zsj.17.893.full); [Adachi & Kuratani, 2012](https://onlinelibrary.wiley.com/doi/10.1111/j.1525-142X.2012.00542.x) - Focusing on craniofacial morphology|
-|nurse hound|*Scyliorhinus stellaris*|oviparous|[Musa et al., 2018]([https://bioone.org/journals/Zoological-Science/volume-17/issue-7/zsj.17.893/Developmental-Morphology-of-Branchiomeric-Nerves-in-a-Cat-Shark-Scyliorhinus/10.2108/zsj.17.893.full) - describes 7 key stages|
+|nurse hound|*Scyliorhinus stellaris*|oviparous|[Musa et al., 2018](https://bioone.org/journals/Zoological-Science/volume-17/issue-7/zsj.17.893/Developmental-Morphology-of-Branchiomeric-Nerves-in-a-Cat-Shark-Scyliorhinus/10.2108/zsj.17.893.full) - describes 7 key stages|
 |pijama shark|*Poroderma africanum*|oviparous|[Kiyatake et al., 2023](https://onlinelibrary.wiley.com/doi/10.1111/jfb.15555) - No morphological description|
 |frilled shark|*Chlamydoselachus anguineus*|viviparous|[Lopez-Romero et al., 2020](https://onlinelibrary.wiley.com/doi/10.1111/jfb.14352)|
 |clearnose skate|*Raja eglanteria*|oviparous|[Luer et al., 2009](https://link.springer.com/chapter/10.1007/978-1-4020-9703-4_9)|
